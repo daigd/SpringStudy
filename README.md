@@ -1,5 +1,5 @@
-# SpringStudy
-Spring Study
+## SpringStudy
+
 开始用Gitub来托管自己的学习笔记和项目。
 ### 每天至少要有半小时的学习时间。
 
